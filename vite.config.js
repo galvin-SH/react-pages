@@ -11,6 +11,6 @@ export default defineConfig({
     build: {
         outDir: 'dist',
         assetsDir: '',
-        base: '/react-pages',
     },
+    base: '/react-pages/',
 });
